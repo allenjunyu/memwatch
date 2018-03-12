@@ -1,2 +1,3 @@
 # memwatch
-C memory watch
+C memory watching tool
+
